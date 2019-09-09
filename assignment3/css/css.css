@@ -1,0 +1,19 @@
+@font-face{
+	font-family: Playball-Regular;
+	src : url(css/Playball-Regular.ttf);
+}
+
+.container{
+	background-color: #999999;
+}
+.top{
+	font-family: Playball-Regular;
+}
+#list{
+	background-color:  #faa998 ;
+	color: #ffffff;
+}
+a:hover{
+	background-color: 
+#e54e2e ;
+}
